@@ -1,17 +1,17 @@
-# aws-bbucket-pline-s3-reactjs 🐳
+# aws-bbucket-pipeline-s3-reactjs 🐳
 
-![Stars](https://img.shields.io/github/stars/tquangdo/aws-bbucket-pline-s3-reactjs?color=f05340)
-![Issues](https://img.shields.io/github/issues/tquangdo/aws-bbucket-pline-s3-reactjs?color=f05340)
-![Forks](https://img.shields.io/github/forks/tquangdo/aws-bbucket-pline-s3-reactjs?color=f05340)
-[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-bbucket-pline-s3-reactjs/issues/new)
+![Stars](https://img.shields.io/github/stars/tquangdo/aws-bbucket-pipeline-s3-reactjs?color=f05340)
+![Issues](https://img.shields.io/github/issues/tquangdo/aws-bbucket-pipeline-s3-reactjs?color=f05340)
+![Forks](https://img.shields.io/github/forks/tquangdo/aws-bbucket-pipeline-s3-reactjs?color=f05340)
+[![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-bbucket-pipeline-s3-reactjs/issues/new)
 
 ## reference
 [youtube](https://www.youtube.com/watch?v=SC2XzQ-tKKQ)
 
 ## Creating a new React project
 ```shell
-git clone https://dotranquang@bitbucket.org/dotranquang/aws-bbucket-pline-s3-reactjs.git
-cd aws-bbucket-pline-s3-reactjs
+git clone https://dotranquang@bitbucket.org/dotranquang/aws-bbucket-pipeline-s3-reactjs.git
+cd aws-bbucket-pipeline-s3-reactjs
 npx create-react-app .
 ```
 
@@ -63,4 +63,3 @@ git push
 git push
 ```
 - click `Run pipeline` > branch=`master` & pipeline=`custom:production` & see the changed result
-
