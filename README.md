@@ -5,6 +5,8 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/aws-bbucket-pipeline-s3-reactjs?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-bbucket-pipeline-s3-reactjs/issues/new)
 
+![detail](screenshots/detail.png)
+
 ## reference
 [youtube](https://www.youtube.com/watch?v=SC2XzQ-tKKQ)
 
